@@ -1,5 +1,14 @@
-Test
+PHP - atermark Image
 ====
 
+Read
+---------------
+Extract the file
+Run index.php
 
-Welcome to my test github file...
+You will able to view the the watermarek image
+
+
+more info visit http://www.learnphp.in
+
+Email me - chinmay235@gmail.com
