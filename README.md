@@ -1,4 +1,4 @@
-PHP - atermark Image
+PHP - Watermark Image
 ====
 
 Read
