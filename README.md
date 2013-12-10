@@ -10,5 +10,4 @@ You will able to view the the watermarek image
 
 
 more info visit http://www.learnphp.in
-
-Email me - chinmay235@gmail.com
+chinmay235@gmail.com
