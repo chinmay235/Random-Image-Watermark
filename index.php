@@ -5,7 +5,7 @@
 	$_SESSION['random_image_number_check'] = $rands;
 	
 	$bg = 'random.jpg';
-	$numimgp = 'image.gif';
+	$numimgp = 'image.jpg';
 	
 	$numimg1 = sprintf($numimgp,substr($rands,0,1));
 	$ys1 = rand(0,30);
